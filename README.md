@@ -6,6 +6,7 @@ This project analyzes data from the Olympic Games up to 2016, providing insights
 Dataset:
 The dataset used in this project is sourced from:
   - Kaggle Olympics Dataset
+    https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
    
 Data Coverage:
 - Summer Olympics (1896-2016)
